@@ -15,7 +15,7 @@ This lab project models a structured enterprise network with multiple department
 - **1 Campus Building**
 - **Redundant Links + High Availability**
 
-![Logical Topology](./topology.png)
+![Logical Topology](./Topology.png)
 
 ---
 
