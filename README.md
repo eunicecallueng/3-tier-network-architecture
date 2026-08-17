@@ -1,5 +1,8 @@
 # Enterprise Network Topology Simulation
 
+📦 **GitHub Repository:**
+[View Source Code on GitHub](https://github.com/eunicecallueng/Enterprise-Network-Topology)
+
 Welcome to my Cisco Packet Tracer Network lab! This project is a comprehensive simulation of an enterprise-grade network topology that I designed and configured using **Cisco Packet Tracer**. 
 
 Building this topology was an incredible learning experience that allowed me to transition theoretical networking concepts into a fully functional, complex simulation. I implemented multi-area routing, high availability, redundancy, and strict security measures across different simulated corporate buildings.
